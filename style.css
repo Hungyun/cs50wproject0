@@ -1,0 +1,22 @@
+.navbar{
+    text-align: right;
+}
+
+
+.searchbar{
+    text-align: center;
+}
+#searchinput{
+    height: 25px;
+    width: 450px;
+    position:fixed;
+    top:300px;
+    left:550px;
+}
+#submitbtn{
+    height: 30px;
+    width: 130px;
+    position: fixed;
+    top:350px;
+    left:725px;
+}
