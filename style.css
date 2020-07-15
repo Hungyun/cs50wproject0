@@ -1,37 +1,94 @@
-.navbar{
-    background-color: beige;
-    height:60px;
-    margin:0px;
-    text-align: right;
-}
 body{
     margin:0px;
     margin-right:3px;
+    font-family: Arial, Helvetica, sans-serif;
 }
-.underline{
-    border-bottom: grey solid 1px;
-    padding: 0px 10px;
-    padding-left: 50px;
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
 }
+/*.navbar{*/
+/*    background-color: beige;*/
+/*    height:60px;*/
+/*    margin:0px;*/
+/*    text-align: right;*/
+/*}*/
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+img{
+    display: block;
+    margin-top: 130px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 92px;
+    width: 272px;
+}
+
 #searchinput{
-    height: 25px;
-    width: 450px;
-    position:fixed;
-    top:300px;
-    margin-left:560px;
+    width:544px;
+    height: 64px;
     margin-right: auto;
+    background-color: green;
+}
+.center {
+    text-align: center;
+}
+.uppadding{
+    padding-top:20px;
+}
+
+#query{
+    border: 1px solid green;
     border-radius:30px;
-    border-width: 1px;
+    width:550px;
+    height:50px;
 }
-#submitbtn{
-    height: 30px;
-    width: 130px;
-    position: relative;
-    margin-left:700px;
-    margin-right: auto;
-    margin-top:320px;
+
+#btn{
+    height:35px;
+    width:130px;
 }
-.center{
-    margin-left:700px;
-    margin-top:320px;
+#goodluck{
+    height:35px;
+    width:100px;
+    margin-left:5px;
+}
+
+#btn-image{
+    height:35px;
+    width:150px;
+}
+.ads{
+    font-size:20px;
+    margin-left:50px;
+}
+.form{
+    border: black solid 1px;
+    margin-top:50px;
+    margin-left:50px;
+    margin-right:50px;
+}
+
+.lgfontsize{
+    font-weight:1px;
+    font-size:20px;
+}
+.adsipt{
+    position: fixed;
+    left: 250px;
+    height:20px;
+    width:600px;
+    margin-right:30px;
+}
+.adsbtn{
+    right:30px;
+    margin-right:30px;
 }
