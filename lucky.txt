@@ -1,0 +1,26 @@
+lucky
+Request URL: https://www.google.com/search?sxsrf=
+ALeKk02ZpOJ_beSovnMeabFtPDoqYRqSVA%3A1595338432664
+&source=hp&ei=wO4WX_jJJYzFmAWHx4Iw
+&iflsig=AINFCbYAAAAAXxb80GKIvSNhPdt36_ogD8TLbw7lf4G1
+&q=harvard
+&btnI=I%27m+Feeling+Lucky
+
+
+
+
+
+normal
+
+Request URL: https://www.google.com/search?hl=en&sxsrf
+=ALeKk039srl6g5kzgzbQqVQ-mTxD4Xy3dg%3A1595338662576
+&source=hp&ei=pu8WX_buH8mTr7wPgdSBiAc
+&q=harvard&oq=harvard
+&gs_lcp=CgZwc3ktYWIQDDIFCC4QkwIyAggAMgIILjICCAAy
+AgguMgIIADICCC4yAggAMgIILjICCC46CAguEMcBEKMCUMEJ
+WMEXYIk4aAFwAHgAgAHDAYgBzwaSAQMyLjWYAQCgAQGqAQdnd3Mtd2l6sAEA
+&sclient=psy-ab
+&ved=0ahUKEwj22ZrSu97qAhXJyYsBHQFqAHEQ4dUDCAs
+
+
+https://www.google.com/search?q=harvard&btnI=Im+Feeling+Lucky
