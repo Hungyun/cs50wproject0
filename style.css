@@ -2,18 +2,15 @@ body{
     margin:0px;
     margin-right:3px;
     font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100px;
 }
 
 .topnav {
   overflow: hidden;
   background-color: #333;
 }
-/*.navbar{*/
-/*    background-color: beige;*/
-/*    height:60px;*/
-/*    margin:0px;*/
-/*    text-align: right;*/
-/*}*/
+
+
 .topnav a {
   float: right;
   color: #f2f2f2;
@@ -52,10 +49,7 @@ img{
     height:50px;
 }
 
-#btn{
-    height:35px;
-    width:130px;
-}
+
 #goodluck{
     height:35px;
     width:100px;
@@ -81,19 +75,75 @@ img{
     font-weight:1px;
     font-size:20px;
 }
+.adsbtn{
+    right:30px;
+    margin-right:30px;
+}
+#query{
+  font-size:30px;
+  padding:1px;
+  padding-left: 10px;
+  outline:none;
+}
+.searchbtn{
+    padding-top:30px;
+}
+
+.btn{
+    height:50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size:15px;
+    border-width: 0px;
+    border-radius:5px;
+    color:rgb(122, 122, 122);
+}
+.btn:hover{
+    border-width:1px;
+    color:black;
+}
+#googlesearch{
+    width:120px;
+}
+#lucky{
+    width:130px;
+    padding:1px;
+    margin-left:10px;
+}
+#googleimgsearch{
+    wieth:150px;
+}
+
+
+/* advanced search css */
+.page{
+    /* border: 1px solid black; */
+    margin-left:50px;
+}
+
+.inline{
+    width:100%;
+    /* border: 1px solid green; */
+    height:40px;
+    padding-top:10px;
+}
+.advslabel{
+    width:40%;
+    height:20px;
+}
+.advsbox{
+    position: fixed;
+    left:250px;
+    height:20px;
+    width:45%;
+    max-width: 500px;
+    margin-right:20px;
+}
+/* 
 .adsipt{
     position: fixed;
     left: 250px;
     height:20px;
     width:600px;
     margin-right:30px;
-}
-.adsbtn{
-    right:30px;
-    margin-right:30px;
-}
-#query{
-  font-size:40px;
-  padding:20px;
-  outline:none;
-}
+} */
