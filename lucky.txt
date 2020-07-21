@@ -1,12 +1,18 @@
 lucky
-Request URL: https://www.google.com/search?sxsrf=
-ALeKk02ZpOJ_beSovnMeabFtPDoqYRqSVA%3A1595338432664
-&source=hp&ei=wO4WX_jJJYzFmAWHx4Iw
-&iflsig=AINFCbYAAAAAXxb80GKIvSNhPdt36_ogD8TLbw7lf4G1
+
+Request URL: https://www.google.com/search?source=hp&
+ei=uwUXX8OUIIiUmAWphp64BQ
+&iflsig=AINFCbYAAAAAXxcTy539hN-tYbsMTZVyYBPecs6ikVAD
+&q=harvard
+&btnI=%E5%A5%BD%E6%89%8B%E6%B0%A3
+
+https://www.google.com/search?
+sxsrf=ALeKk00lIJHZGCuEh0N5ukZCA0-M1eZUBQ%3A1595346251125
+&source=hp
+&ei=Sw0XX7e9BcOZr7wPuJK-sAU
+&iflsig=AINFCbYAAAAAXxcbWzOUnSAiEeqJv20-ZlxSYYnEr8J5
 &q=harvard
 &btnI=I%27m+Feeling+Lucky
-
-
 
 
 
