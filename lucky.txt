@@ -30,3 +30,43 @@ WMEXYIk4aAFwAHgAgAHDAYgBzwaSAQMyLjWYAQCgAQGqAQdnd3Mtd2l6sAEA
 
 
 https://www.google.com/search?q=harvard&btnI=Im+Feeling+Lucky
+
+
+
+image
+
+<a class="q qs" href="/search?q=harvard&amp;bih=791&amp;biw=619&amp;hl=en&amp;tbm=isch&amp;sxsrf=ALeKk004-ZYZwjcBl9fu-4JTzIdc0Ytk2w:1595348813977&amp;source=lnms&amp;sa=X&amp;ved=0ahUKEwif8uW64d7qAhUtJaYKHb4qD4cQ_AUIDigB" data-sc="I"><span class="HF9Klc iJddsb" style="height:16px;width:16px"><svg focusable="false" viewBox="0 0 24 24"><path d="M14 13l4 5H6l4-4 1.79 1.78L14 13zm-6.01-2.99A2 2 0 0 0 8 6a2 2 0 0 0-.01 4.01zM22 5v14a3 3 0 0 1-3 2.99H5c-1.64 0-3-1.36-3-3V5c0-1.64 1.36-3 3-3h14c1.65 0 3 1.36 3 3zm-2.01 0a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h7v-.01h7a1 1 0 0 0 1-1V5"></path></svg></span>Images</a>
+
+
+href="/search?
+q=harvard
+&amp;bih=791
+&amp;biw=619
+&amp;hl=en
+&amp;tbm=isch
+&amp;sxsrf=ALeKk004-ZYZwjcBl9fu-4JTzIdc0Ytk2w:1595348813977
+&amp;source=lnms
+&amp;sa=X
+&amp;ved=0ahUKEwif8uW64d7qAhUtJaYKHb4qD4cQ_AUIDigB"
+
+
+https://www.google.com.tw/search
+?hl=zh-TW
+&tbm=isch
+&source=hp
+&biw=1177
+&bih=719
+&ei=hhgXX8A5moSvvA_f_Z74BQ
+&q=harvard
+&oq=harvard
+&gs_lcp=CgNpbWcQDDICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BQgAELEDOggIABCxAxCDAVCY7wJY6PoCYIuZB2gAcAB4AIABlAGIAbAFkgEDNS4ymAEAoAEBqgELZ3dzLXdpei1pbWewAQA
+&sclient=img
+&ved=0ahUKEwjAlMvP4t7qAhUawosBHd--B18Q4dUDCAc
+
+
+https://www.google.com/search
+?source=hp
+&ei=cBwXX-GsLdSLr7wPyqepmAg
+&iflsig=AINFCbYAAAAAXxcqgODAaAkR3lytvU9YBRR29KoTwco8
+&q=harvard
+&btnI=%E5%A5%BD%E6%89%8B%E6%B0%A3
